@@ -1,6 +1,8 @@
 # Logo
 logo_image_source: /images/soccer-ball.png
 
+sponsors: hello
+
 # Header
 menu:
   Anmeldung: /files/Anmeldung_Peacely-Cup_2019_Pdf.pdf

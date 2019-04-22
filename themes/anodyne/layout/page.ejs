@@ -23,19 +23,22 @@
 
 
     <!-- Content -->
-    <div class="w-100 ph2 ph4-m ph5-l mv5 mv6-l">
+    <div class="w-100 ph2 ph4-m ph5-l mv1 mv1-l">
         <div class="content">
-            <div class="mw8 center">
+            <div class="mw10 center flex flex-wrap">
                 <% if (isTagOrCat) { %>
                     <% items.forEach(function(item){ %>
                        <%- partial('_partial/tag-category-index', {item: item, isTagIndex: isTagIndex}) %>
                    <% }) %>
                 <% } else { %>            
-                    <div class="w-100 mw7 fw3 lh-copy post-content">
+                    <div class="fl w-70 pa2 lh-copy post-content">
                         <!-- Main Post Content -->
                         <%- page.content %>
                     </div>
                 <% } %>
+                <div class="fl w-20 pa2" style="flex: 0 0 200px;">
+                  <%- partial('_partial/sponsors.ejs', { sponsors: config.sponsors }) %>
+                </div>
             </div>
         </div>
     </div>
