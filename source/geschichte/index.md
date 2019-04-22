@@ -1,0 +1,19 @@
+---
+title: Eine kurze «Peacely»-Geschichte
+---
+
+«Ein Anlass, der nach 30 Jahren immer noch ein Höhepunkt für Schüler und Eltern, für alle Fussballfans ist, der nichts an Spannung und Begeisterung eingebüsst hat, bei dem man sich auf den nächsten freut, kaum ist der jetzige abgeschlossen, feiert sein Jubiläum. Ein Fest für Jung und Alt!», schrieb uns der Frauenverein Wohlen im Jahr 2010. «Wir gratulieren den Organisatorinnen und Organisatoren des Peacely-Cups herzlich und wünschen, dass er noch viele Jahre weitergeführt wird.»
+
+Und er wird weitergeführt! Der Peacely-Cup ist aus dem Kalender der Gemeinde Wohlen nicht mehr wegzudenken, und er geniesst als Plauschturnier für die ganze Familie regionale Ausstrahlung. Manch einer, der 1981 bei der Premiere mitkickte, feuert heute seine Söhne und Enkelinnen an … Und die Faszination dieses buchstäblich eigenartigen, einzigartigen Turniers ist ungebrochen. Darüber freuen wir vom OK uns sehr. Und wir freuten uns insbesondere, dass der Frauenverein unsere Arbeit im Jahr 2010 mit einer grosszügigen Spende anerkannte. 2015 durften wir nach all den Jahren auch erstmals einen Unterstützungsbeitrag von der Gemeinde Wohlen entgegennehmen.
+
+Es mag ja sein, dass der Cup als Non-profit-Anlass, der jeden eingenommenen Franken in Form von Souvenirs und Preisen an die Mitwirkenden weitergibt, gemeinnützigen Charakter hat. Entstanden aber ist das Turnier 1981 eigentlich eher aus Eigennutz: Wir, ein paar Teenager, fanden, es müsste ein Plauschturnier geben, an dem Hobbykicker – zumal solche, die keinem Fussballklub angeschlossen waren – auch mal so richtig um Pokale und Preise schutten und dabei Spass haben konnten. Weil es ein solches Turnier in der Gegend nicht gab, haben Michel Dubler, André Schärer und Bänz Friedli, damals zwischen 14 und 16 Jahre alt, es halt erfunden. Und weil die Kerle allein aufgeschmissen gewesen wären, wurden sie von Carola Breitschmid, Nicole Sahli und Tina Hänsenberger unterstützt.
+
+Dass wir mit der Idee von damals seither mehreren Schülergeneationen Freude machen konnten, freut auch uns. Zehnmal fand der Cup in Uettligen statt, zweimal mussten wir in die Turnhalle nach Wohlen weichen, alle anderen Austragungen fanden in Murzelen statt – auf dem «heiligen Mani-Rasen», wie wir den Bitz im Sandbühl gerne nennen. 
+
+Die Erinnerungen an legendäre Teams wie ÄLÄFGE und Juve P., an Ehrengäste wie «Wuschu» Spycher, Marco Wölfli, Ädu Kunz, Piotr Nowak, Andy Egli und Bent Christensen, an kleine Publikumslieblinge wie die Schwizer Chracher und die Grashüpfer sind lebendig. Vor allem aber freuen wir uns mit euch auf die nächste Austragung. Und staunen, dass dies schon die sechsunddreissigste ist!
+
+In all den Jahren gab es im OK immer wieder Wechsel, einige gute Seelen aber haben uns während Jahrzehnten begleitet. Chrigu Müller zum Beispiel, zuerst als Lehrer, später als Gemeindepräsident. Ganz herzlich bedanken wir uns bei Margrit und Peter Schütz von der Post Uettligen, die stets zur Stelle waren, wenn es galt, Anmeldungen zu verteilen, Programme zu verschicken und Wechselgeld für unsere Festwirtschaft bereitzustellen. André Dubler aus Uettligen war dem Turnier bis zu seinem Tod freundschaftlich verbunden. Seit Jahr und Tag druckt die Firma Uldry in Hinterkappelen für uns gratis und franko die Sticker, während eines Vierteljahrhunderts unterstützte uns Thomas Bornhauser von der Migros Aare. Ohne all den Goodwill wäre der Peacely-Cup undenkbar. 
+
+Und gewiss wäre er undenkbar ohne diejenigen, die im Vorfeld fleissig arbeiten. Viele Gesichter sind gekommen und gegangen, von der Gründergeneration sind einzig noch Tinu Flury und Bänz Friedli im OK dabei, unvergessen bleiben aber alle anderen, allen voran Karin und Erich Tschannen, die während 30 Jahren im OK mitarbeiteten. 
+
+Die Allerwichtigsten aber seid ihr, die Teilnehmerinnen und Teilnehmer – ohne euch kein Peacely-Cup! Danke, dass ihr dabei seid.
