@@ -3,7 +3,8 @@ logo_image_source: /images/soccer-ball.png
 
 # Header
 menu:
-  Anmeldung: /files/Anmeldung_Peacely-Cup_2019_Pdf.pdf
+  # Anmeldung: /files/Anmeldung_Peacely-Cup_2019_Pdf.pdf
+  Spielplan: /files/Peacely-Cup_Spielplan2019.pdf
   Sponsorenbrief: /files/Sponsorenbrief 2019.pdf
   Geschichte: /geschichte
   Das OK: /das-ok
