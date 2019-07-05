@@ -84,3 +84,9 @@ theme: anodyne
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+sponsors:
+  - none:
+    label: Möchtest du Sponsor werden?
+    image:
+    link: /files/Sponsorenbrief 2019.pdf

@@ -1,0 +1,13 @@
+<h3>Sponsoren</h3>
+<% config.sponsors.forEach(sponsor => { %>
+  <% if (sponsor.link) { %>
+  <a href="<%- sponsor.link %>">
+  <% } %>
+  <% if (sponsor.image) { %>
+    <img src="<%- sponsor.image %>" title="<%- sponsor.label %>" />
+  <% } %>
+  <%- sponsor.label %>
+  <% if (sponsor.link) { %>
+    </a>
+  <% } %>
+<% }) %>
