@@ -86,7 +86,13 @@ deploy:
   type:
 
 sponsors:
-  - none:
-    label: Möchtest du Sponsor werden?
-    image:
-    link: /files/Sponsorenbrief 2019.pdf
+  gold:
+    - none:
+      label: Möchtest du Sponsor werden?
+      image:
+      link: /files/Sponsorenbrief 2019.pdf
+  silver:
+    - landi:
+      label: Landi Wohlen
+      image: https://www.landi.ch/Frontend/Landi/Images/Landi_Logo.svg
+      link: https://www.landi.ch

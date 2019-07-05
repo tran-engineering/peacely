@@ -1,5 +1,20 @@
-<h3>Sponsoren</h3>
-<% config.sponsors.forEach(sponsor => { %>
+<h3>Goldsponsoren</h3>
+<% config.sponsors.gold.forEach(sponsor => { %>
+  <% if (sponsor.link) { %>
+  <a href="<%- sponsor.link %>">
+  <% } %>
+  <% if (sponsor.image) { %>
+    <img src="<%- sponsor.image %>" title="<%- sponsor.label %>" />
+  <% } %>
+  <%- sponsor.label %>
+  <% if (sponsor.link) { %>
+    </a>
+  <% } %>
+<% }) %>
+
+
+<h3>Silbersponsoren</h3>
+<% config.sponsors.silver.forEach(sponsor => { %>
   <% if (sponsor.link) { %>
   <a href="<%- sponsor.link %>">
   <% } %>
