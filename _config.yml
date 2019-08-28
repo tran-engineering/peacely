@@ -87,11 +87,15 @@ deploy:
 
 sponsors:
   gold:
-    - none:
-      label: Möchtest du Sponsor werden?
-      image:
-      link: /files/Sponsorenbrief 2019.pdf
+    - aschlimann:
+      label: Metzgerei Aeschlimann
+      image: http://www.aeschlimas-metzg.ch/wAssets/img/aktuelles/weblication/wThumbnails/DIN-A6-4-Farbig[344330f7346c665e66ac39dbf47a9d1e].png
+      link: http://www.aeschlimas-metzg.ch
   silver:
+    - zingg:
+      label: Bäckerei Zingg
+      image: https://baeckerei-zingg.ch/wp-content/uploads/2016/04/logo_wb.png
+      link: https://baeckerei-zingg.ch/
     - landi:
       label: Landi Wohlen
       image: https://www.landi.ch/Frontend/Landi/Images/Landi_Logo.svg
